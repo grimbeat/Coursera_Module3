@@ -9,3 +9,25 @@ body {
     border-radius: 0;
     border: 0;
 }
+
+button.navbar-toggler {
+    margin-bottom: 10px;
+    border: 1px solid #dadada;
+}
+
+.display-2 {
+    padding: 5%;
+}
+
+.col {
+    border: 2px solid #000;
+    padding: 15px;
+    background-color: rgb(230, 166, 71);
+    color: #1a1a1a;
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-weight: 600;
+}
